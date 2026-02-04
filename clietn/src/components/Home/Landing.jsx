@@ -37,6 +37,7 @@ const Landing = () => {
                     </div>
                 </div>
             </div>
+            <div> Thank You for Visit</div>
         </>
     );
 };
